@@ -23,7 +23,7 @@ Lower win rate than the band below it (82.6% vs 100%). Five days faster. Two and
 
 ## Under 10% doesn't work either.
 
-30% counter rate. Clients don't take it seriously, they just push back. You don't save margin with a low opener. You negotiate twice.
+30% counter rate. Clients don't take it seriously, they push back. You don't save margin with a low opener. You negotiate twice.
 
 ## What I'd do
 
@@ -31,4 +31,4 @@ Cap first offers at 20–25%. Go above 30% only after two dead rounds or genuine
 
 ## What the numbers can't tell me
 
-The toughest accounts get the biggest discounts, so part of that 30%+ miss rate is harder clients, not just bad discounting. The data says we're over-discounting. It can't prove every big discount was wrong. The follow-up worth doing: track escalations and check whether the bigger number actually caused the yes.
+The toughest accounts get the biggest discounts, so part of that 30%+ miss rate is harder clients, not bad discounting. The data says we're over-discounting. It can't prove every big discount was wrong. The follow-up worth doing: track escalations and check whether the bigger number actually caused the yes.
